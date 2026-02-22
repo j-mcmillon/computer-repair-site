@@ -1,1 +1,13 @@
-nano.txt
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+#Env secrets
+.env
+
+#Logs
+*.log
+
+#Dependencies/build (future-proofing)
+node_modules
+vendor/
